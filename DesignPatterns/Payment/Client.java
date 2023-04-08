@@ -24,6 +24,7 @@ public class Client {
 
     public static void main(String[] args) throws IOException {
 
+        
 
         while (!order.isClosed()) {
             Integer cost;
