@@ -50,7 +50,7 @@ public class Client {
                         "1 - PalPay" + "\n" +
                         "2 - Credit Card");
                 String paymentMethod = reader.readLine();
-                ;
+
 
                 paymentStrategy = paymentMethod.equals("1") ? new PayByPayPal() : new PayViaCreditCard();
 
@@ -58,7 +58,7 @@ public class Client {
             }
 
             order.proccessOrder(paymentStrategy);
-            System.out.println("Pay" + order.getTotalCost() + "units or continue shopping ? P/C");
+            System.out.println("Pay " + order.getTotalCost() + "units or continue shopping ? P/C");
             String proccessedOrder = reader.readLine();
 
             if (proccessedOrder.equals("P")) {

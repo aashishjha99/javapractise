@@ -25,12 +25,12 @@ public class PayByPayPal implements PaymentStrategy {
 
 
     static {
-        DATA_BASE.put("amanda1985", "amanda@ya.com");
+        DATA_BASE.put("aashishjhaoff@gmail.com", "123456");
         DATA_BASE.put("qwerty", "john@amazon.eu");
     }
 
     private boolean verify() {
-        setSignedIn(mail.equals(DATA_BASE.get(password)));
+        setSignedIn(password.equals(DATA_BASE.get(mail)));
         return signedIn;
     }
 
