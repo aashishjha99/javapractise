@@ -1,0 +1,17 @@
+
+D
+java:S11219".Extract the assignment out of this expression.(«ıÄ
+C
+java:S5411]"(Use a primitive boolean expression here.(û÷²—úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+4
+java:S2178"Correct this "|" to "||".(Ûğ•ÿÿÿÿÿ
+>
+java:S1125 "(Remove the unnecessary boolean literals.(ƒ¯àÀ
+G
+java:S11972",Move the array designators [][] to the type.(õÍê’ùÿÿÿÿ
+E
+java:S1197Y"*Move the array designators [] to the type.(€Üıøÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ØèÖÑ
+M	java:S106`"9Replace this use of System.out or System.err by a logger.(“‹Ğx

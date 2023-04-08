@@ -1,0 +1,8 @@
+
+D
+java:S1121&".Extract the assignment out of this expression.(Ñ¤ÑÛ
+0
+java:S1220""Move this file to a named package.
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¿æûï
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ïà‘Š
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(çÇîÿÿÿÿÿ
