@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "payment",
+        "roundadapterdesign",
+        "Payment",
         "Aeroplane",
-        "Payment"
-    ]
+        "FactoryDesign/Animal"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

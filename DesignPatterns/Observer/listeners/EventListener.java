@@ -1,2 +1,8 @@
-package DesignPatterns.Observer.listeners;public interface EventListener {
+package DesignPatterns.Observer.listeners;
+
+import java.io.File;
+
+public interface EventListener {
+
+    void update(String eventType, File file);
 }
